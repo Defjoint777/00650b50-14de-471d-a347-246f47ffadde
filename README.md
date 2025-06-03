@@ -153,9 +153,13 @@ Understanding document classes helps tailor your formatting and structure. Try a
 ## Questions
 
 1. Why do we use type-set-description languages like LaTeX instead of WYSIWYG tools?
-2. How does LaTeX make automation easier, especially in academic or technical workflows?
-3. Why is maintaining a consistent style easier with LaTeX?
-4. What different `documentclass` options are available, and where can one find more?
+   its much easier to describe the document u want to get at the end using LaTeX.
+3. How does LaTeX make automation easier, especially in academic or technical workflows?
+   we dont need Word with ten tousend tools, we just define art of document making a doc.tex and we are ready to write documentation of everything.
+5. Why is maintaining a consistent style easier with LaTeX?
+   LaTeX minimize source of possible errors, makes ur document look high-quality and uniform.
+7. What different `documentclass` options are available, and where can one find more?
+   article,proc,minimal,report,book,slides,memoir,letter,beamer...
 
 ---
 
